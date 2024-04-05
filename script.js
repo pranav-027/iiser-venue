@@ -1,5 +1,8 @@
 var participantNames = [
-    "Pranav Dandgaval"
+    "Pranav Dandgaval",
+    "Kaivalya Rakesh Parange (कैवल्य राकेश पारंगे)",
+    "Oajas Mahesh Lele",
+    "Nachiket Likhite"
 ];
 
 var table = document.getElementById("participants-table");
