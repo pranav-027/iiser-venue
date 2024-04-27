@@ -1,9 +1,16 @@
 var participantNames = [
     "Pranav Dandgaval",
+    "Dhruva Nikhil Jagtap",
+    "Jay Nikhil Gadgil",
+    "Tanav Aditya Godbole",
+    "Ojas Mahesh Lele",
+    "Nachiket Likhite",
     "Kaivalya Rakesh Parange (कैवल्य राकेश पारंगे)",
-    "Oajas Mahesh Lele",
-    "Nachiket Likhite"
-];
+    "Rahul Venkatesan",
+    "Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)",
+    "Angad Rahul Nanal",
+    "Rajesh Mhatre"
+  ];
 
 var table = document.getElementById("participants-table");
 
