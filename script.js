@@ -9,7 +9,9 @@ var participantNames = [
     "Rahul Venkatesan",
     "Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)",
     "Angad Rahul Nanal",
-    "Rajesh Mhatre"
+    "Rajesh Mhatre",
+    "Kundan Shet",
+    "Vaishakh Kargudri"
   ];
 
 var table = document.getElementById("participants-table");
