@@ -11,7 +11,9 @@ var participantNames = [
     "Angad Rahul Nanal",
     "Rajesh Mhatre",
     "Kundan Shet",
-    "Vaishakh Kargudri"
+    "Vaishakh Kargudri",
+    "Sumiran Maiskar",
+    "Advay Sant"
   ];
 
 var table = document.getElementById("participants-table");
