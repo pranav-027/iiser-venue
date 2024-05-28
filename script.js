@@ -13,7 +13,8 @@ var participantNames = [
     "Kundan Shet",
     "Vaishakh Kargudri",
     "Sumiran Maiskar",
-    "Advay Sant"
+    "Advay Sant",
+    "Yuvraj Agarwal"
   ];
 
 var table = document.getElementById("participants-table");
